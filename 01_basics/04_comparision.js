@@ -1,0 +1,24 @@
+// console.log(2 > 1);
+// console.log(2 >= 1);
+// console.log(2 < 1);
+// console.log(2 == 1);
+// console.log(2 != 1);
+
+
+ //console.log("2" > 1);
+ //console.log("02" > 1); 
+ // >,>=,<=, < convert string to number
+
+
+ //>,>=,<=, < convert string to number // == not convert
+ console.log(null > 0);//null to zero
+ console.log(null == 0);
+ console.log(null >= 0);
+
+console.log(undefined == 0); //always gives false 
+ console.log(undefined > 0);
+ console.log(undefined < 0);
+
+// === 
+
+ console.log("2" === 2);
