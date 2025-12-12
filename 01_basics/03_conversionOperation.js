@@ -45,3 +45,33 @@ let stringNumber = String(someNumber)
 // console.log(typeof stringNumber);
 
 // -------operation---------------------------------
+
+let value = 3
+let negValue = -value
+ //console.log(negValue);
+
+//   console.log(2+2);
+//  console.log(2-2);
+//  console.log(2*2);
+//  console.log(2**3);
+//  console.log(2/3);
+//  console.log(2%3);
+
+let str1 = "hello"
+let str2 = " hitesh"
+
+let str3 = str1 + str2
+console.log(str3);
+
+// console.log("1" + 2); //if string first then convert into string
+// console.log(1 + "2");//if number first act as number and then append
+// console.log("1" + 2 + 2);//if string first then convert into string
+// console.log(1 + 2 + "2");/if number first act as number and then append
+
+
+ //console.log(+true);
+ //console.log(+"");
+
+ let gameCounter = 100
+++gameCounter;
+console.log(gameCounter);
