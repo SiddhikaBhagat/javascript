@@ -69,8 +69,8 @@ console.log(str3);
 // console.log(1 + 2 + "2");/if number first act as number and then append
 
 
- //console.log(+true);
- //console.log(+"");
+ //console.log(+true);//1
+ //console.log(+"");//0
 
  let gameCounter = 100
 ++gameCounter;
