@@ -37,3 +37,5 @@ const myFunction = function(){
 
 console.log(typeof anotherId);
 
+//stack ( for primitive)
+//heap( for non-primitive)
